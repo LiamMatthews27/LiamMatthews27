@@ -2,10 +2,10 @@
 # 👋 Hi, I’m Liam Matthews
 
 ## 👀 About Me
-I'm an outgoing individual with a passion for exploration and discovery. I have an unwavering drive and dedication to achieve the absolute best in everything I do. I firmly believe in continuous improvement and strive to better myself every day.
+I am an outgoing individual driven by a passion for exploration and discovery. My unwavering dedication compels me to pursue excellence in every endeavor. I firmly believe in continuous improvement, viewing each day as an opportunity for growth. I embrace setbacks as valuable learning experiences, recognizing the importance of refining my approach and learning from failures. By constantly striving to better myself, I am committed to achieving my fullest potential.
 
 ## 🌱 I’m currently learning
-I'm currently pursuing a Diploma in ICT with a specialization in Applications Development at Cape Peninsula University of Technology (CPUT). I am actively learning and growing in the field of ICT, always seeking opportunities for skill enhancement.
+I am currently enrolled in a Diploma program in ICT with a specialization in Applications Development at Cape Peninsula University of Technology (CPUT). My journey in ICT is marked by continuous learning and growth, as I actively seek opportunities to enhance my skills. Alongside my diploma pursuit, I have already achieved a Higher Certificate in Information and Communications Technology and obtained a Google IT Support Certificate. Moreover, I have enriched my qualifications with training from the International Youth Foundation PTS Traveler program and Skillzbooks Critical Thinking course. I am deeply committed to advancing in the field of ICT and leveraging my diverse skill set to make meaningful contributions.
 
 ## 💞️ I’m looking to collaborate on
 I'm open to collaborating on exciting projects related to Applications Development or any other interesting opportunities that come my way. If you have a project or idea you'd like to work on together, feel free to reach out.
