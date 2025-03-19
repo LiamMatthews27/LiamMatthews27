@@ -11,7 +11,7 @@ I am currently enrolled in a Diploma program in ICT with a specialization in App
 I'm open to collaborating on exciting projects related to Applications Development or any other interesting opportunities that come my way. If you have a project or idea you'd like to work on together, feel free to reach out.
 
 ## 📫 How to reach me
-You can reach me via email at [Matthewsliam@gmail.com](mailto:Matthewsliam@gmail.com) or by phone at 084-983-3351. I'm always open to connecting with like-minded individuals and exploring new opportunities.
+You can reach me via email at [Matthewsliam27@gmail.com](mailto:Matthewsliam27@gmail.com) or by phone at 084-983-3351. I'm always open to connecting with like-minded individuals and exploring new opportunities.
 
 <!---
 LiamMatthews27/LiamMatthews27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
